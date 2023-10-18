@@ -38,6 +38,9 @@
     .container {
         padding: 0 10px;
     }
+    .header .container {
+        padding: 0;
+    }
     .bitmap-section {
         margin-top: 35px;
     }
