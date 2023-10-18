@@ -9,7 +9,6 @@ font-family: 'PT Sans', sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    overflow-x: hidden;
 }
 
 body {
@@ -164,7 +163,7 @@ img[src$=".png"] {
 
 .inner-box {
     position: absolute;
-    bottom: -90px;
+    bottom: -93px;
     left: 0px;
 }
 
